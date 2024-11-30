@@ -1,0 +1,19 @@
+npx create-react-app expense-tracker --template typescript
+cd expense-tracker
+npm install @heroicons/react @headlessui/react tailwindcss echarts firebase axios 
+npm install @types/react @types/react-dom @tailwindcss/forms
+npm install @heroicons/react@v1
+npx tailwindcss init -p
+npm install react-router-dom @types/react-router-dom
+npm install echarts @types/echarts
+npm install firebase
+npm install @types/node --save-dev
+npm install react-hot-toast @types/react @types/react-dom firebase
+npm install @firebase/storage @firebase/firestore
+npm install @firebase/storage @firebase/firestore @types/jest
+npm install xlsx @types/xlsx
+npm install firebase @firebase/firestore @firebase/storage
+npm install @types/react @types/react-dom @types/node
+npm install react-hot-toast @heroicons/react
+npm install jspdf jspdf-autotable @types/jspdf
+npm install @types/jspdf-autotable
